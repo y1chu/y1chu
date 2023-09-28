@@ -1,6 +1,6 @@
 # Hello, World! I'm Ingrid Chu 🌟
 
-![Phoenix Banner](ff5-Ingrid Oh snap Did that bug just turn into a feature.png)
+[Phoenix Banner](ff5-Ingrid Oh snap Did that bug just turn into a feature.png)
 
 🔥 Passionate about tech, I'm deeply inspired by the lore of Final Fantasy. My journey in the tech realm is much like that of the phoenix - continually rising, evolving, and transforming.
 
