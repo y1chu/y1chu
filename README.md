@@ -8,7 +8,6 @@
 
 - **Final Fantasy Enthusiast**: The intricate stories and themes from the game have always resonated with me.
 - **Tech Explorer**: From web development to design, I immerse myself in the dynamic world of technology, always eager to learn and innovate.
-- **Believer in Rebirth**: Like the phoenix, I see challenges as opportunities to reinvent and elevate.
 
 ## 🛠 Skills & Tools
 
