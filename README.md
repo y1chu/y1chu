@@ -22,12 +22,12 @@
 ## 📜 Fun Facts
 
 - 🎮 Played 13/16 mainline Final Fantasy games. (as of 2023)
-- 🍣 Sushi enthusiast.
+- 🥩 Shabu Shabu enthusiast.
 - 👩‍💻 Have more than 15000 hours in Final Fantasy XIV.
 
 ## 💌 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ying-chen-chu/)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ying-chen-chu/)
 - 📫 Email: [y1chu@ucsd.edu]
 
 ![Ingrid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=y1chu&show_icons=true&theme=tokyonight)
