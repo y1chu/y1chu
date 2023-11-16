@@ -1,5 +1,3 @@
-# Ingrid Chu: Technology Enthusiast and Final Fantasy Aficionado
-
 ![Phoenix Banner](https://github.com/y1chu/y1chu/blob/main/ff5-Ingrid%20Oh%20snap%20Did%20that%20bug%20just%20turn%20into%20a%20feature.png)
 
 Passionate about technology and deeply inspired by the lore of Final Fantasy, my journey in the tech realm parallels that of the phoenix - continually rising, evolving, and transforming.
