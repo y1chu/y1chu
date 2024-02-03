@@ -26,7 +26,7 @@ Check out my [portfolio website](https://y1chu.github.io/Phoenix/) to dive deepe
 ## Connect with Me
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ying-chen-chu/)
-- Email: [y1chu@ucsd.edu]
+- Email: y1chu@ucsd.edu
 
 ![Ingrid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=y1chu&show_icons=true&theme=tokyonight)
 ![Ingrid's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=y1chu&layout=compact&theme=tokyonight)
