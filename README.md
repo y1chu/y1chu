@@ -29,4 +29,3 @@ Check out my [portfolio website](https://ingridchu.netlify.app) to dive deeper i
 - Email: y1chu@ucsd.edu
 
 ![Ingrid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=y1chu&show_icons=true&theme=tokyonight)
-![Ingrid's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=y1chu&layout=compact&theme=tokyonight)
