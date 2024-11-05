@@ -5,13 +5,13 @@ Passionate about technology and deeply inspired by the lore of Final Fantasy, my
 ## About Me
 
 - **Final Fantasy Enthusiast**: The intricate stories and themes from the game have always resonated with me.
-- **Tech Explorer**: From web development to design, I immerse myself in the dynamic world of technology, always eager to learn and innovate.
+- **Tech Explorer**: From game development to web development, I immerse myself in the dynamic world of technology, always eager to learn and innovate.
 
 ## Skills & Tools
 
-- Languages: Python, Java, C, C++, C#, JavaScript, HTML, CSS
+- Languages: Python, Java, C, C++, C#, JavaScript, HTML, CSS, Vue
 - Game Engine: Unity
-- Tools: Git
+- Tools: Git, Matlab, R
 
 ## My Work
 
