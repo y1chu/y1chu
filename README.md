@@ -9,8 +9,8 @@ Passionate about technology and deeply inspired by the lore of Final Fantasy, my
 
 ## Skills & Tools
 
-- Languages: Python, Java, C, C++, C#, JavaScript, HTML, CSS, PostCSS, Vue
-- Game Engine: Unity
+- Languages: Python, Java, C, C++, C#, JavaScript, Vue
+- Game Engine: Unity, Phaser
 - Tools: Git, Matlab, R
 
 ## My Work
