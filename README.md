@@ -15,7 +15,7 @@ Passionate about technology and deeply inspired by the lore of Final Fantasy, my
 
 ## My Work
 
-Check out my [portfolio website](https://y1chu.github.io/Phoenix/) to dive deeper into my tech journey, projects, and the fiery essence that drives my passion.
+Check out my [portfolio website](https://ingridchu.com/) to dive deeper into my tech journey, projects, and the fiery essence that drives my passion.
 
 ## Fun Facts
 
